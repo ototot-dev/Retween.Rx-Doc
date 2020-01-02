@@ -10,6 +10,14 @@
  
  Please leave any questions or bug reports as as issue.
  
+- Q&A Sample
+ 
+https://github.com/ototot-dev/Retween.Rx-Wiki/issues/2
+
+- Bug Report Sample
+
+https://github.com/ototot-dev/Retween.Rx-Wiki/issues/1
+ 
  
  
 
