@@ -1,7 +1,18 @@
 # Retween.Rx Wiki
 
+## Documentation
 
-[Retween.Rx 메뉴얼](https://www.notion.so/ototot/Retween-Rx-ba6b7a55c80c40c8a859c0c0112d0de3)
+[Retween-Rx-Documetation](https://www.notion.so/ototot/Retween-Rx-Documetation-5a36f801cd4d4094a10db196323d2d0d)
+
+## Q&A + Bug Report
+
+
+
+
+
+
+
+
 
 
 
