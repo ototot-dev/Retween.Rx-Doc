@@ -10,9 +10,18 @@
 
 ## Assets.Rx
 
- Assets.Rx is the AssetBundle management tool of the Unity engine. 
+ Assets.Rx is the AssetBundle management tool of the Unity engine. 아래와 같은 기능을 제공
+ 
+- AssetBundle packaging Command Line
+- AssetBundle asynchronous loading
+- AssetBundle life cycle management via Reference Counter algorithm
+
+ 보다 자세한 내용으 아래 사이트르 통해서 확인.
 
 ## Retween.Rx
+
+ 
+
 ## UGUI.Rx
 
 
