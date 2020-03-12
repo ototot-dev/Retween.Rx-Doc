@@ -1,4 +1,13 @@
- Welcome~ 
+ Welcome to ototot.dev Wiki.
+ 
+ ototot.dev is a one-person development team that develops and distributes various frameworks for the Unity engine. currently, the following products are being prepared.
+ 
+# Socket.Rx
+# Assets.Rx
+# Retween.Rx
+# UGUI.Rx
+
+
  
 ## Q&A + Bug Report
  
