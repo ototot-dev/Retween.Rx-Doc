@@ -9,6 +9,9 @@
  https://github.com/ototot-dev/Socket.Rx
 
 ## Assets.Rx
+
+ Assets.Rx is the AssetBundle management tool of the Unity engine. 
+
 ## Retween.Rx
 ## UGUI.Rx
 
