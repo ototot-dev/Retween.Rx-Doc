@@ -10,18 +10,25 @@
 
 ## Assets.Rx
 
- Assets.Rx is a AssetBundle management tool of the Unity engine. 아래와 같은 기능을 제공
+ Assets.Rx is the AssetBundle management tool of the Unity engine. it provides the following features.
  
-- AssetBundle packaging Command Line
-- AssetBundle asynchronous loading
-- AssetBundle life cycle management via Reference Counter algorithm
+- Command Line AssetBundle Packaging
+- AssetBundle Asynchronous Loading as UniRx Observable Pattern
+- AssetBundle Life Cycle Management via Ref-Count Algorithm
 
- 보다 자세한 내용으 아래 사이트르 통해서 확인.
+ **Assets.Rx is being prepared for distribution to the Unity Asset Store.**
 
 ## Retween.Rx
 
- Retween.Rx is a tween system dedicated to the Unity engine. Based on the Unity Animation system and the UniRx library, you can control your Tween quickly and easily with minimal code writing.
-
+ Retween.Rx is a tween system dedicated to the Unity engine. based on the Unity Animation System and the UniRx library, you can control your Tween quickly and easily with minimal code writing.
+ 
+ Official documents are available through the links below.
+ 
+ https://www.notion.so/ototot/Retween-Rx-Documetation-5a36f801cd4d4094a10db196323d2d0d[Retween.Rx Documentation]
+ 
+ 
+ **Retween.Rx is being prepared for distribution to the Unity Asset Store.**
+ 
 ## UGUI.Rx
 
 
