@@ -24,7 +24,7 @@
  
  Official documents are available through the links below.
  
- [Retween.Rx Documentation]https://www.notion.so/ototot/Retween-Rx-Documetation-5a36f801cd4d4094a10db196323d2d0d
+ [Retween.Rx Documentation](https://www.notion.so/ototot/Retween-Rx-Documetation-5a36f801cd4d4094a10db196323d2d0d)
  
  
  **Retween.Rx is being prepared for distribution to the Unity Asset Store.**
