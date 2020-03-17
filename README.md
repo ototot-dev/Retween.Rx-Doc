@@ -31,7 +31,13 @@
  
 ## UGUI.Rx
 
+&nbsp;UGUI.Rx is a UI framework based on UGUI and UniRx.
+
+&nbsp;**UGUI.Rx is being prepared for distribution to the Unity Asset Store.**
+
 ## Cheese.Pong
+
+&nbsp;Cheese.Pong is a puzzle game created using UGUI.Rx. this game is a technical demo and can be played through the link below.
 
 [Cheese.Pong Demo Link](http://35.225.91.234)
 
