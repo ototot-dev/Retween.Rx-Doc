@@ -33,6 +33,8 @@
 
 ## Cheese.Pong
 
+[Cheese.Pong Demo Link](http://35.225.91.234)
+
 ## Q&A + Bug Report
  
  Please leave any questions or bug reports as as issue.
